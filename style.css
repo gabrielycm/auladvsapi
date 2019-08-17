@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  display: flex;
+  justify-content: center;
+  color: red;
+}
+.flex {
+  display: flex;
+}
+.cardgroup {
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  margin: 5px;
+  border: 1px solid black;
+  align-items: center;
+  flex-direction: column;
+}
+.cardimg img {
+  width: 300px;
+}
+.cardtext {
+  padding: 5px; 
+}
