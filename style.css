@@ -7,7 +7,6 @@
   color: red;
   border-bottom: 1px dotted red;
 }
-
 header {
   display: flex;
   justify-content: center;
@@ -26,7 +25,6 @@ header button {
 header button:focus {
   display: none;
 }
-
 .fala {
   display: none;
   color: red;
@@ -34,7 +32,6 @@ header button:focus {
   align-items: center;
   width: 100%;
 }
-
 #root {
   width: 100%;
   height: auto;
@@ -61,7 +58,6 @@ header button:focus {
   width: 280px;
   height: 300px;
 }
-
 #root2 {
   width: 100%;
   height: auto;
@@ -87,5 +83,3 @@ header button:focus {
   width: 300px;
   height: 350px;
 }
-
-/*# sourceMappingURL=style.css.map */
